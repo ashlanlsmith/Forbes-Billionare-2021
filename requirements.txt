@@ -2,4 +2,7 @@ jupyterlab
 jupyter-book
 jupytext
 seaborn
+geopandas
+country_converter
+geoplot
 
